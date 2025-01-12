@@ -1,0 +1,5 @@
+Step 1) git add .
+Step 2) git commit --date "1 day ago" -m "commit past days"
+Step 3) git push origin master
+
+Step 2 only works when you save the work for recent work.
