@@ -1,8 +1,15 @@
 Step 1) Copy and paste this command in the command prompt 
-```
 git add .
-```
-Step 2) git commit --date "1 day ago" -m "commit past days"
-Step 3) git push origin master
 
-Step 2 only works when you save the work for recent work.
+Step 2) After copy and paste the first command in the command prompt then paste this command again
+        in the command prompt.
+git commit --date "1 day ago" -m "commit past days"
+
+You can set the any date like 1 day ago, 2 days ago, 3 days ago... and so on
+You can give any commit message.
+
+This command will only works when you are working on a recent work and commit the changes on the github.
+
+Step 3) After that when two commands are done then finally write this command in the command prompt and 
+        commit will push on that particular date which you forgot to commit on the github.
+git push origin master
